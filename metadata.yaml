@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1180
     wikipedia: http://en.wikipedia.org/wiki/Confucius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23839#--
 gutenberg_issued: '2007-12-13'
 gutenberg_type: Text
 identifiers:
